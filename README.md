@@ -1,6 +1,6 @@
 do ;
 
-1 ) cuddle w me if i have c + h on !
+1 ) cuddle w me if i have idle on !
 
 2 ) int if i have idle on or looking for chat !
 
